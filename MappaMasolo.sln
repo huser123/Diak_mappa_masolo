@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MappaMasolo", "MappaMasolo.csproj", "{7C21D74B-B204-444B-9202-ED32C2A9F83B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C21D74B-B204-444B-9202-ED32C2A9F83B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C21D74B-B204-444B-9202-ED32C2A9F83B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C21D74B-B204-444B-9202-ED32C2A9F83B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C21D74B-B204-444B-9202-ED32C2A9F83B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F937B8E-A82E-4162-8F4E-58D9361BD1B3}
+	EndGlobalSection
+EndGlobal

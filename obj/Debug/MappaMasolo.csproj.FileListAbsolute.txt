@@ -1,0 +1,16 @@
+C:\Users\User\Documents\C#\MappaMasolo\obj\Debug\MappaMasolo.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#\MappaMasolo\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\C#\MappaMasolo\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\C#\MappaMasolo\obj\Debug\App.g.cs
+C:\Users\User\Documents\C#\MappaMasolo\obj\Debug\MappaMasolo_MarkupCompile.cache
+C:\Users\User\Documents\C#\MappaMasolo\obj\Debug\MappaMasolo.g.resources
+C:\Users\User\Documents\C#\MappaMasolo\obj\Debug\MappaMasolo.Properties.Resources.resources
+C:\Users\User\Documents\C#\MappaMasolo\obj\Debug\MappaMasolo.csproj.GenerateResource.cache
+C:\Users\User\Documents\C#\MappaMasolo\obj\Debug\MappaMasolo.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\MappaMasolo\bin\Debug\MappaMasolo.exe.config
+C:\Users\User\Documents\C#\MappaMasolo\bin\Debug\MappaMasolo.exe
+C:\Users\User\Documents\C#\MappaMasolo\bin\Debug\MappaMasolo.pdb
+C:\Users\User\Documents\C#\MappaMasolo\obj\Debug\MappaMasolo.exe
+C:\Users\User\Documents\C#\MappaMasolo\obj\Debug\MappaMasolo.pdb
+C:\Users\User\Documents\C#\MappaMasolo\bin\Debug\NEVSOR.txt
+C:\Users\User\Documents\C#\MappaMasolo\obj\Debug\MappaMasolo_Content.g.cs
